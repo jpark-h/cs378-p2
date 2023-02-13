@@ -43,3 +43,11 @@ body {
   border-radius: 12px;
   width: 32%;
 }
+.adjustbutton {
+  background-color:#ffffff;
+  border: 0px;
+  padding: 0;
+}
+.test {
+  padding-top: .15em;
+}
